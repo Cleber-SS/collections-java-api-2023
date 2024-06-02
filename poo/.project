@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/desafioPoo/iphone/uml_iphone_interfaces.drawio</name>
+			<type>1</type>
+			<location>D:/estudos-java/dio-trilha-java-basico/poo/src/desafioPoo/iphone/uml_iphone_interfaces.drawio</location>
+		</link>
+	</linkedResources>
 </projectDescription>
