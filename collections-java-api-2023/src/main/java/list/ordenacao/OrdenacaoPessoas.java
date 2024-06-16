@@ -1,6 +1,5 @@
 package main.java.list.ordenacao;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
